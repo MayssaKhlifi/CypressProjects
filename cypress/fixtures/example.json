@@ -1,0 +1,6 @@
+{
+  "environement": {
+    "staging": "aaa",
+    "dev": "bb"
+  }
+}
